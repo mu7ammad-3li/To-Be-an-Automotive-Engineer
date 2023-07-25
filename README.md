@@ -1,2 +1,4 @@
-# Learn-C-The-Hard-Way
-My journey of learninnig c With Learn C the harrd way 
+# To Be an Automotive Engineer 
+My journey of Embeded System and automotive Enginnering The Hard Way 
+1-Learn C The Hard Way 
+
