@@ -9,6 +9,8 @@
 	- [x] Ex07 Variables And Types 
 	- [x] Ex08 If,Else If , Else 
 	- [x] Ex09 While Loop And Boolean Expressions
-	- [ ] Ex10 Switch Statement 
+	- [x] Ex10 Switch Statement 
+	- [ ] Arrays And String 
+	- [ ] Sizes And Arrays 
 
 
