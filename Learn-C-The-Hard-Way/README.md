@@ -10,7 +10,8 @@
 	- [x] Ex08 If,Else If , Else 
 	- [x] Ex09 While Loop And Boolean Expressions
 	- [x] Ex10 Switch Statement 
-	- [ ] Arrays And String 
-	- [ ] Sizes And Arrays 
+	- [x] Ex11 Arrays And String 
+	- [x] Ex12 Sizes And Arrays 
+	- [x] Ex13 For Loop And Array Of Strings
 
 
